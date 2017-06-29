@@ -1,2 +1,2 @@
 # meanWithReact
-A start up mean stack with Express, React, Redux, Graphql, MongoDB.
+A starter kit for mean stack with Express, React, Redux, Graphql, MongoDB.
